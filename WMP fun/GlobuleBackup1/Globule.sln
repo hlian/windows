@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globule", "MyPlugin\Globule.csproj", "{78AB5CCF-4902-4E96-BBAB-9930B7E1FD4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78AB5CCF-4902-4E96-BBAB-9930B7E1FD4E}.Debug|Default.ActiveCfg = Release|Any CPU
+		{78AB5CCF-4902-4E96-BBAB-9930B7E1FD4E}.Debug|Default.Build.0 = Release|Any CPU
+		{78AB5CCF-4902-4E96-BBAB-9930B7E1FD4E}.Release|Default.ActiveCfg = Release|Any CPU
+		{78AB5CCF-4902-4E96-BBAB-9930B7E1FD4E}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
